@@ -12,7 +12,7 @@ Navigate to [http://localhost:9000?color=blue](http://localhost:9000?color=blue)
 
 Note that the correct div is rendered, but the dynamic style attribute is not rendered.
 
-[logo]: ./src/images/bug.png
+![Bug](src/images/bug.png)
 
 # Expected Behavior
 
